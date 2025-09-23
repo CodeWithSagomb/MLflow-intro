@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+env/
+
+# Datasets
+data/
+dataset/
+*.csv
+*.txt
+
+# Machine Learning Models
+*.h5
+*.pkl
+*.joblib
+
+# Notebooks
+*.ipynb
+
+# IDEs
+.vscode/
+
+#.\venv\Scripts\Activate.ps1
+#.\venv\Scripts\activate
+#python -m venv venv
