@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e42f4d724194450e932f11ebc59f7041/artifacts
+end_time: 1758640973826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42f4d724194450e932f11ebc59f7041
+run_name: stately-turtle-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758640967444
+status: 4
+tags: []
+user_id: pc

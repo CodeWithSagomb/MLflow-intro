@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/617197661118245859/dfa5d7a731374d428a9d15668eab4fef/artifacts
+end_time: 1758646224994
+entry_point_name: ''
+experiment_id: '617197661118245859'
+lifecycle_stage: active
+run_id: dfa5d7a731374d428a9d15668eab4fef
+run_name: RF-estimators-100-depth-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758646216219
+status: 3
+tags: []
+user_id: pc

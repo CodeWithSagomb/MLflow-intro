@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42bfea62a9824088bee979d7d6b140ba/artifacts
+end_time: 1758642683255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42bfea62a9824088bee979d7d6b140ba
+run_name: silent-grub-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758642673377
+status: 3
+tags: []
+user_id: pc

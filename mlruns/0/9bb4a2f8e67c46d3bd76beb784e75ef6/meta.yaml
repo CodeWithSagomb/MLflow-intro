@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9bb4a2f8e67c46d3bd76beb784e75ef6/artifacts
+end_time: 1758641869659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb4a2f8e67c46d3bd76beb784e75ef6
+run_name: shivering-cat-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641859782
+status: 3
+tags: []
+user_id: pc
